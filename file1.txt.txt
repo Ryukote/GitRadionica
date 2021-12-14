@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ask12312312ljda12321
+=======
+askljda12321asdasdsa
+>>>>>>> 284e17e2dab8aced6e45527a5f98887543b4c3c0
